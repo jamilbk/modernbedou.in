@@ -13,3 +13,20 @@ layout: default
   </article>
 
 </div>
+
+<nav>
+  <ul class='prev-next-links'>
+    <li style='float:left'>
+      <a href='{{ site.posts.first.url }}'>
+        Previous:
+        {{ site.posts.first.title }}
+      </a>
+    </li>
+    <li style='float:right'>
+      <a href='{{ site.posts.last.url }}'>
+        Next:
+        {{ site.posts.last.title }}
+      </a>
+    </li>
+  </ul>
+</nav>
