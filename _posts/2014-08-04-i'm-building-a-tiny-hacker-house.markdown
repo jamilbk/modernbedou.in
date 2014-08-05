@@ -2,11 +2,11 @@
 layout: post
 author: Jamil
 title: "I'm building a tiny hacker house"
-date: 2014-7-27 10:00:00
+date: 2014-08-04
 tags: tiny hacker house
 ---
 
-<p class='lead'>
+<p class="lead">
 I'm building a tiny hacker house on a trailer. It will be about 150 sq. ft. total, and that
 includes the 50 sq. ft. or so required for the queen-size loft. It will have a
 tiny kitchen, tiny bathroom, tiny living area, but a regular sized bathtub.
@@ -14,8 +14,8 @@ The bathtub is important because it doubles as a laundry washer.
 </p>
 
 <center>
-<img src='/img/tinyhackerhouse_roughmodel.png'
-  alt='tiny hacker house rough model'>
+<img src="/img/tiny-hacker-house-rough-model.png"
+  alt="tiny hacker house rough model">
 </center>
 
 I've had 5 different addresses in 3 years of living in the Bay Area, always
