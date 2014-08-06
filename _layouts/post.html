@@ -16,17 +16,21 @@ layout: default
 
 <nav>
   <ul class="prev-next-links">
+    {% if post.previous %}
     <li style="float:left">
       <a href="{{ site.posts.first.url }}">
         Previous:
-        {{ site.posts.first.title }}
+        {{ post.previous.title }}
       </a>
     </li>
+    {% endif %}
+    {% if post.next %}
     <li style="float:right">
       <a href="{{ site.posts.last.url }}">
         Next:
-        {{ site.posts.last.title }}
+        {{ post.next.title }}
       </a>
     </li>
+    {% endif %}
   </ul>
 </nav>
