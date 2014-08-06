@@ -53,4 +53,6 @@ beach, in the forest, or on a snow-covered mountain?
 
 So I'm building a tiny hacker house. I've completed the structural design and
 placed all the major living spaces. The next post will detail the structural
-design and living systems.  Subscribe via RSS [here](/feed.xml).
+design and living systems.
+
+Subscribe via RSS [here](/feed.xml).
