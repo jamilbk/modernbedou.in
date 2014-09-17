@@ -28,14 +28,14 @@ it, maintaining utilities, mortgages, the yard, building code, HOA code, and
 property tax. It just seems so high maintenance.
 
 There are times when I feel overwhelmed by concrete, people, the monotony and
-predictability of the daily city routine. When this happens, I like to take a
-mini sabbatical to reconnect myself to the humanity of a fresh experience. Most
-of the time this means going solo camping or taking a mini road trip. A
-well-designed tiny house is the perfect vehicle for this. No need to pack.
+predictability of the daily city routine. When this happens, I like to take
+a mini sabbatical to reconnect myself to the humanity of a fresh experience.
+Most of the time this means going solo camping or taking a mini road trip.
+A well-designed tiny house is the perfect vehicle for this. No need to pack.
 
 I look at the material things around me and wonder if I could design
 a lifestyle that didn't place so much importance on owning those things. When
-I first moved to San Francisco, I owned only what could fit in a car. Without
+I moved to San Francisco, I owned only what could fit in a car. Without
 a couch, TV, and cooking supplies, I went out most nights to eat and explore,
 and making friends happened organically. When I invited those friends over for
 dinner, I resisted buying a kitchen table. Instead, people sat in a circle on
@@ -54,5 +54,3 @@ beach, in the forest, or on a snow-covered mountain?
 So I'm building a tiny hacker house. I've completed the structural design and
 placed all the major living spaces. The next post will detail the structural
 design and living systems.
-
-Subscribe via RSS [here](/feed.xml).
