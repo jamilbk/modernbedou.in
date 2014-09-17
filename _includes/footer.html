@@ -2,8 +2,6 @@
 
   <div class="wrap">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-1 column">
       <ul>
         <li>{{ site.title }}</li>
@@ -54,6 +52,10 @@
 
     <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
+      <p class="rss-subscribe">
+        Subscribe
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+      </p>
     </div>
 
   </div>
