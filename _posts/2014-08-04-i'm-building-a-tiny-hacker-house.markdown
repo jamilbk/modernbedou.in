@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I'm building a tiny hacker house"
+comments: true
 date: 2014-08-04
 tags: tiny hacker house
 ---
