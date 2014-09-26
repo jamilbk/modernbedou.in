@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Jamil
 title: "I'm building a tiny hacker house"
 date: 2014-08-04
 tags: tiny hacker house
