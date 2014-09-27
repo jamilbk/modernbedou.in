@@ -1,11 +1,11 @@
 # Site settings
-title: Modern Bedouin
+title: modern bedouin
 email: contact@modernbedou.in
 description: "Life, liberty, and the pursuit of technology."
 baseurl: ""
 url: "http://modernbedou.in"
-twitter_username: jamilbk
-github_username:  jamilbk
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown

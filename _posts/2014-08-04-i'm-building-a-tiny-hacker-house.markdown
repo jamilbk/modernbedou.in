@@ -39,9 +39,8 @@ I moved to San Francisco, I owned only what could fit in a car. Without
 a couch, TV, and cooking supplies, I went out most nights to eat and explore,
 and making friends happened organically. When I invited those friends over for
 dinner, I resisted buying a kitchen table. Instead, people sat in a circle on
-floor pillows. It made for a much more intimate dining experience.  We sit in
-chairs enough anyway. When folks come over, I'll fold the futon and computer
-desk to the wall, and we'll sit on the floor.
+floor pillows. I think it made for a much more intimate dining experience.  I sit in
+chairs enough anyway.
 
 I work remotely as an independent developer. I get tired of going to coffee
 shops and co-working spaces to work. They're neither collaborative nor
@@ -51,6 +50,5 @@ in either long stretches of pristine solitude, or in highly engaged sessions
 face-to-face. For the former, what could be more ideal than an office at the
 beach, in the forest, or on a snow-covered mountain?
 
-So I'm building a tiny hacker house. I've completed the structural design and
-placed all the major living spaces. The next post will detail the structural
+So I'm building a tiny hacker house. The next post will detail the structural
 design and living systems.

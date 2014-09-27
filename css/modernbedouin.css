@@ -1,0 +1,17 @@
+body {
+  font-family: "Old Standard TT", serif;
+  font-size: 18px;
+}
+
+.post-content p {
+  text-align: justify;
+}
+
+div.post {
+  padding-left: 65px;
+  padding-right: 65px;
+}
+
+.post-content img {
+  box-shadow: 0 0 5px 1px #cdcdcd;
+}
