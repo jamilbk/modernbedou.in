@@ -9,8 +9,11 @@ body {
 
 div.post {
   padding-left: 65px;
-  padding-right: 65px;
 }
+
+article.post-content {
+  padding-right: 65px;
+}  
 
 .post-content img {
   box-shadow: 0 0 5px 1px #cdcdcd;

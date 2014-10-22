@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "I'm building a tiny hacker house"
+title: "I'm Building a Tiny Hacker House"
 comments: true
 date: 2014-08-04
-tags: tiny hacker house
+tags: tiny hacker house philosophy
 ---
 
 <p class="lead">
