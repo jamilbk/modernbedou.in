@@ -7,16 +7,50 @@ body {
   text-align: justify;
 }
 
-div.post {
-  padding-left: 65px;
+@media screen and (max-width: 9999px) {
+  article.post-content {
+    padding-right: 65px;
+  }  
+  div.post {
+    padding-left: 65px;
+  }
 }
-
-article.post-content {
-  padding-right: 65px;
-}  
 
 .post-content img {
   box-shadow: 0 0 5px 1px #cdcdcd;
+  max-width: 100%;
+}
+
+/* Phones */
+@media (min-device-width: 320px) {
+  article.post-content {
+    padding-right: 15px;
+  }  
+  div.post {
+    padding-left: 15px;
+  }
+  .post-content img {
+    margin-left: 0px;
+  }
+}
+
+/* Tablets */
+@media (min-device-width: 768px) {
+  article.post-content {
+    padding-right: 25px;
+  }  
+  div.post {
+    padding-left: 25px;
+  }
+}
+
+@media (min-device-width: 1060px) {
+  article.post-content {
+    padding-right: 45px;
+  }  
+  div.post {
+    padding-left: 45px;
+  }
 }
 
 .caption {
