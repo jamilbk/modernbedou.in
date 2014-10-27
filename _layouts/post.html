@@ -14,29 +14,18 @@ layout: default
 
 </div>
 
-<nav>
-  <ul class="prev-next-links">
-    {% if page.previous %}
-    <li style="float:left">
-      <h3>
-        Previous:
-      </h3>
-      <a href="{{ page.previous.url }}">
-        {{ page.previous.title }}
-      </a>
-    </li>
-    {% endif %}
+<div id="post-post">
+  <div style="float:left">
+    {% include signup.html %}
+  </div>
+  <div style="float:right; margin-top: 10px;">
     {% if page.next %}
-    <li style="float:right">
-      <h3>
-        Next:
-      </h3>
-      <a href="{{ page.next.url }}">
-        {{ page.next.title }}
-      </a>
-    </li>
+    <h3> Next post: </h3>
+    <a href="{{ page.next.url }}"> {{ page.next.title }} </a>
     {% endif %}
-  </ul>
-</nav>
+  </div>
+</div>
+
+<div style="clear: both; min-height: 20px;"></div>
 
 {% if page.comments %}{% include comments.html %}{% endif %}

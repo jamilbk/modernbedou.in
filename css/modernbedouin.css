@@ -59,3 +59,34 @@ body {
   margin-top: -15px;
   margin-bottom: 30px;
 }
+
+#mc_embed_signup input.email {
+  margin: 10px 0;
+  padding: 8px 0;
+  text-indent: 5px;
+  width: 272px;
+  min-width: 130px;
+}
+
+#mc_embed_signup input.button {
+  padding: 5px;
+  font-size: 14px;
+  background-color: #fff;
+  color: #333;
+}
+
+#mc_embed_signup input.button:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+
+
+#mc_embed_signup input {
+  border: 1px solid #999;
+  -webkit-appearance: none;
+}
+
+#mc_embed_signup {
+  float: left;
+}
