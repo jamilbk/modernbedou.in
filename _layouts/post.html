@@ -16,19 +16,23 @@ layout: default
 
 <nav>
   <ul class="prev-next-links">
-    {% if post.previous %}
+    {% if page.previous %}
     <li style="float:left">
-      <a href="{{ site.posts.first.url }}">
+      <h3>
         Previous:
-        {{ post.previous.title }}
+      </h3>
+      <a href="{{ page.previous.url }}">
+        {{ page.previous.title }}
       </a>
     </li>
     {% endif %}
-    {% if post.next %}
+    {% if page.next %}
     <li style="float:right">
-      <a href="{{ site.posts.last.url }}">
+      <h3>
         Next:
-        {{ post.next.title }}
+      </h3>
+      <a href="{{ page.next.url }}">
+        {{ page.next.title }}
       </a>
     </li>
     {% endif %}

@@ -6,9 +6,6 @@ date: 2014-10-08
 tags: tiny hacker house design power electrical
 ---
 
-<p class="lead">
-
-</p>
 
 <center>
   <img src="/img/semi.jpg" alt="Semi">
