@@ -21,6 +21,29 @@ body {
   max-width: 100%;
 }
 
+.post-content table {
+  margin: 0 auto;
+}
+
+.post-content table td {
+  border-bottom: 1px solid #eee;
+  padding: 4px 13px 4px 0;
+}
+
+.post-content table th {
+  border-bottom: 2px solid #ccc;
+  text-align: left;
+}
+
+.post-content table tr:last-child td {
+  border-bottom: 0;
+}
+
+.post-content table tfoot td {
+  border-top: 2px solid #ccc;
+  border-bottom: 0;
+}
+
 /* Phones */
 @media (min-device-width: 320px) {
   article.post-content {
