@@ -113,3 +113,9 @@ body {
 #mc_embed_signup {
   float: left;
 }
+
+.post-content img.azn {
+  border: none;
+  width: 1px;
+  height: 1px;
+}
