@@ -6,10 +6,10 @@ date: 2014-10-30
 tags: tiny hacker house design power electrical
 ---
 
-If you missed the last post highlighting the major design choices for the tiny
+(If you missed the last post highlighting the major design choices for the tiny
 hacker house, this one may be a little out of context. You should probably
 <a href="{% post_url 2014-10-22-tiny-hacker-house-design-part-i-overview %}">
-go read</a> it now.
+go read</a> it now.)
 
 When I first contemplated building a tiny house, the electricity system was the
 first thing I researched. Maybe that's because it's what I'm most comfortable
