@@ -57,9 +57,9 @@ Wireless router | 10
 Lights (4) | 60
 Water pressurizer pump | 90
 |=
-Total | 3000
+Total | 3010
 
-Knowing that I'd need up to 3000 W of power at any one time, I could size my
+Knowing that I'd need up to 3010 W of power at any one time, I could size my
 inverter. If you're not familiar with electrical systems, the inverter is the
 device that takes power from a 12 V DC source like a car battery and converts
 it to the 120 V or 240 V AC standards used in homes around the world. They're
