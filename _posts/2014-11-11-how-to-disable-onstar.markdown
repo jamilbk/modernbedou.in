@@ -12,9 +12,11 @@ dealer claimed they can't completely disable the remote control and
 tracking device, a.k.a. Onstar, from my new vehicle. They could only
 unsubscribe me from its paid service and monthly maintenance reminder emails.
 
+That's a problem. I want it gone.
+
 Let me clarify by saying I think Onstar is a great idea, in theory. Find your
-vehicle if stolen, unlock your doors if you lose your keys, track your driving
-habits... what's not to love? Devices are becoming smarter and this is
+vehicle if stolen, unlock your doors if you lose your keys, send help when you
+wreck... what's not to love? Devices are becoming smarter and this is
 generally a good thing, but not when the user has almost no control over the
 device he or she purchased (and spent lots of money on). When will the auto
 industry begin providing open APIs for engineers and empowered users to
@@ -124,4 +126,6 @@ Simply follow the procedure in reverse to assemble everything back together.
 Now, when you press the blue Onstar button, you should hear a notice about the
 computer failing to connect to Onstar!
 
-One privacy-enhanced Heavy Duty truck: check!
+One privacy-enhanced Heavy Duty truck: check! Now if I could only figure out
+how to trash the Sirius XM radio system and get them to stop hassling me to
+continue service.
