@@ -83,9 +83,14 @@ with a maximum towing capacity of 14,500 lb. Its price, lengthy wheelbase, 7500
 lb curb weight, and single rear wheel make for the best combination of features
 given my budget.
  
-<center> <img src="/img/overview.png" alt="Overview"> <div class="caption"> <i>
+<center>
+  <img src="/img/overview.png" alt="Overview">
+  <div class="caption">
+    <i>
 My tow vehicle is a 3/4 ton Chevy truck. Ironically, it's longer than my house.
-</i> </div> </center>
+    </i>
+  </div>
+</center>
 
 The front axle of my tandem-axle trailer almost perfectly bisects the house
 foundation, making it straightforward to estimate the weight distribution to
@@ -172,3 +177,5 @@ laundry in the shower pan.
 
 That just about summarizes the design of the tiny hacker house. The next post
 will detail the electrical system!
+
+{% include all_design_posts.markdown %}

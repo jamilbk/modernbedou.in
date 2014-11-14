@@ -163,3 +163,5 @@ That sums up the electrical system -- hope you made it all the way
 through. If you have any questions please leave a comment below or [shoot me an
 email](mailto:contact@modernbedou.in). In the next post we'll dip into some
 smelly subjects as we take a splash in the bathroom. :-)
+
+{% include all_design_posts.markdown %}

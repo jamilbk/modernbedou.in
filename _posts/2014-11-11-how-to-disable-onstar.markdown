@@ -127,5 +127,4 @@ Now, when you press the blue Onstar button, you should hear a notice about the
 computer failing to connect to Onstar!
 
 One privacy-enhanced Heavy Duty truck: check! Now if I could only figure out
-how to trash the Sirius XM radio system and get them to stop hassling me to
-continue service.
+how to rid myself of the Sirius XM radio system.
