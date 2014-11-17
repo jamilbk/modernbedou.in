@@ -32,7 +32,7 @@ standard plumbed-in toilet wouldn't be ideal. I'd have to accommodate a black
 water tank underneath the house and deal with finding a spot to empty it every
 couple weeks. The next best option seems to be an [incinerating
 toilet](http://ssl3.sea.tierpoint.com/incinolet/), but they're pricey and
-consume 450 kWh of electricity each use!
+consume 450 Wh of electricity each use!
 
 I certainly don't want any power problems to prevent pooing, so I'm sticking
 with a simple composting toilet for the initial build. What's a composting
