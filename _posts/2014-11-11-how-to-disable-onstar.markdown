@@ -124,7 +124,5 @@ bridge">
 
 Simply follow the procedure in reverse to assemble everything back together.
 Now, when you press the blue Onstar button, you should hear a notice about the
-computer failing to connect to Onstar!
-
-One privacy-enhanced Heavy Duty truck: check! Now if I could only figure out
-how to rid myself of the Sirius XM radio system.
+computer failing to connect to Onstar. One privacy-enhanced Heavy Duty truck:
+check!
