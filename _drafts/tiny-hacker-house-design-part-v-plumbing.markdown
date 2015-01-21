@@ -3,148 +3,69 @@ layout: post
 title: "Tiny Hacker House Design Part V: Plumbing"
 comments: true
 date: 2014-10-08
-tags: tiny hacker house design power electrical
+tags: tiny hacker house design plumbing
 ---
 
-<p class="lead">
-Remember that sweet hacker semi truck from Live Free or Die Hard? When I saw
-that movie, I knew at some point in my life I wanted to drive around, connect
-to the net, and cause a ruckus with my trusty sidekick / lover. Minus being
-destroyed by an F-35.
-</p>
+Hi folks. It's been a while since the last update, but for good reason! I've been
+busy building. More on that in another post. But first, I'd like to discuss
+plumbing.
 
-<center>
-  <img src="/img/semi.jpg" alt="Semi">
-  <div class="caption">
-    <i>
-      Just some casual bad guys taking over the US from a semi truck.
-    </i>
-  </div>
-</center>
+Since the tiny hacker house will be heated via a closed-loop in-floor radiant
+heat system, the plumbing is a bit more complicated than your typical tiny
+house. One heater will need to provide hot water for
+both the fixtures and home heating, so a "smarter" system is required to ensure
+everything flows properly and stays hot. Unfortunately, that means a bit
+of back-of-the-napkin calculations are in order.
 
-The urge to go anywhere, bask in solitude, and flesh out some ideas isn't
-unique amongst hackers. Henry David Thoreau, founders of stripe, alex maccaw,
-etc. Examples abound. So I'm building a tiny hacker house. 
+A little aside: Unless you're willing to spend hours and hours designing a
+system from scratch (and likely still get it wrong), just hire a professional.
+I'm only offering here the resources I've found helpful in the hopes it'll be
+helpful for other DIY'ers. I certainly wish I had more examples available to
+study as I dove into this adventure.
 
-If building a house is hard work, designing one from scratch is long work.
-It's an exercise in organization, research, patience, and most of all, soul
-searching. You're the primary authority on designing the space that's going to
-be the foundation for your foreseeable life. You have to make a decision for
-every little thing. In the beginning, it seems simple and easy. But once you
-find yourself weighing the trade-offs between one showerhead and the other or
-recessed lighting vs wall lamps, you realize just how long the process could
-take.
+The first order of business to complete is figuring out a "worst case" scenario
+for hot water usage. If you have a stationary home with traditional heating,
+this is pretty easy -- just throw in one or more electric tank heaters
+(depending on the size of your family) and call it day. With mobile homes and
+radiant heating, though, it requires answering some imaginative questions. Tank
+or Tankless? Planning ski trips? Having house guests? Using an automatic
+dish washer? Everyone's scenarios are different; for me, it's taking a piping hot shower in 0&deg;F weather while
+maintaining a comfortable 75&deg;F in the house. Boy will it be nice to come
+home to heated floors and hot showers after a day on the slopes!
 
-Things are especially involved designing a tiny house on a trailer. Since the
-home will be moving, you have to account for the jostle of highway travel,
-weight distribution, and whether your house will still be attached after a
-screeching emergency stop.  After modeling the house 3 times, each with
-different frame dimensions, I've finally arrived at the first rough draft
-model. A beta, if you will.
+Next, you can begin sizing the primary hot water
+components. Each fixture draws a specific amount of water flow from the system,
+measured in gallons per minute (GPM). Ideally you want the sum total of these
+to be less than what your water heater and pump can provide. If they're not,
+you'll experience a drop in flow at one fixture when you turn on another. In reference to my scenario above, the
+<!-- shower head -->
+<a href="http://www.amazon.com/gp/product/B00A0X7YMY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A0X7YMY&linkCode=as2&tag=modebedo-20&linkId=FBQVIOLKS7CQCG56">shower head</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=modebedo-20&l=as2&o=1&a=B00A0X7YMY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+in will be 2.2 GPM and the
+<!-- first radiant heat pump -->
+<a href="http://www.amazon.com/gp/product/B006XXMVWS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006XXMVWS&linkCode=as2&tag=modebedo-20&linkId=QAVNKXHTXLOV7GS5">first radiant heat pump</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=modebedo-20&l=as2&o=1&a=B006XXMVWS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+(there are 2, more on that later) can produce a maximum of about 5 GPM of flow
+at around 0 head, which simply means it will be able to 
 
-## The Design
+The state of the
+plumbing system can represented by 2 "bits" of information: fixture (shower) on
+/ off and radiant floor on / off. So there are four possible states the system
+can be in: both off, both on, fixture on, or radiant on. The shower head I'll
+be using is 2.4 GPM, and the recirculation pump I plan to use for the system is
+an adjustable Taco 003 with a max flow of 8 GPM. The water heater provides a
+maximum flow of 6.6 GPM, so I need to adjust the Taco pump to achieve the
+difference in flow.
 
-I'll go through the design of the house in broad categories. This design is
-essentially my blueprints for building the house, and will serve as my
-materials list when complete.
+The system will have 3 pumps and 2 tanks:
 
-<ol>
-  <li><a href="#structure">Structure</a></li>
-  <li><a href="#living-spaces">Living Spaces</a></li>
-  <li><a href="#power">Power</a></li>
-  <li><a href="#networking">Networking</a></li>
-</ol>
+- radiant floor loop circulation pump
+- radiant floor supply circulation pump
+- pressurization pump (when coming from tank)
+- pressure tank to smooth out water flow
+- expansion tank to accommodate radiant floor fluid changes
 
-<a name="structure"></a>
-### Structure
+Taco offers a relay for their pumps to be controlled by a thermostat
 
-#### Shape
 
-Since I plan to be fairly mobile with the home, I wanted something more
-aerodynamic than the typical A-frame. I really like what Rocky Mountain Tiny
-Houses did with their [Boulder
-design](http://rockymountaintinyhouses.com/plans/boulder), so I decided to do
-something similar. Mine will have a wedge-shaped shed on the tongue of the
-trailer which will further enhance its aerodynamic properties.
-
-#### Trailer
-
-Speaking of the trailer, I splurged on a [custom 16'
-one](http://www.tinyhomebuilders.com/tiny-house-trailers) from Tiny Home
-Builders. It's got tandem 7,000 lb drop-axles so I can load it up without worrying
-about overloading it. It sits about 3-4" lower than your typical trailer, which
-allows for a higher roof and lower center of gravity.
-
-The empty trailer weighs in at 1950 lbs, so that leaves 12500 lbs capacity for
-my house, water, propane, belongings, and people.
-
-#### Frame Material
-
-I originally designed the frame from 25-gauge galvanized steel stud and track,
-like what you'd find at your local hardware store. I knew they weren't load
-bearing, but I hazarded the guess that they'd suffice if set them 12" OC and attached to 23/32"
-sheathing on both sides. Well, I've changed my mind. After more research, it
-seems like not only are they structurally inadequate for a tiny house, but the
-vibrations from road travel can potentially wiggle the fasteners loose. The
-last thing I want to do is hesitate to apply the brakes in an emergency
-maneuver for fear of shearing the frame.
-
-As such, I've decided to use metal studs that are designed for load-bearing
-applications: [Light Gauge Metal
-Studs](http://buildipedia.com/aec-pros/construction-materials-and-methods/light-gauge-metal-stud-framing-planning-and-practices).
-These are similar to the standard 25-gauge ones used for wall partitions,
-except they're offered in thicker gauges, made of stronger steel, and coated
-with up to G90 galvanization. Additionally, they're pre-cut to lengths of
-your choosing, so in an ideal world you could order exactly the pieces you need
-and assemble it like a giant Lego set, no cutting required! The only downside
-is it's much harder to go back and change the design once I've placed the
-order.
-
-Using 14-gauge stud / track, the total estimated weight of just the frame comes
-in at about 2600 lbs.
-
-#### Sheathing
-
-The exterior, roof, and subfloor will still use 23/32" treated plywood. But
-since the frame will actually be doing its job, I can make the rooms slightly
-bigger by going with 15/32" plywood for the interior. The sheathing grain will be
-oriented orthogonal to the interior / exterior siding, so that would be
-left-right for the subfloor and roof, and bottom-up for the walls.
-
-A very exaggerated, maximum estimate for the sheathing weight is 1700 lbs.
-
-<a name="living-spaces"></a>
-### Living Spaces
-
-#### Bedroom Loft
-
-#### Bathroom
-
-#### Living Room / Office
-
-#### Kitchen
-
-<a name="power"></a>
-### Lighting and Power
-
-#### Outlets
-
-#### Solar System
-
-#### Lighting
-
-### Heating and Cooling
-
-#### Radiant Floor Heating
-
-#### Through-the-Wall A/C
-
-<a name="networking"></a>
-### Networking
-
-#### Long-range Wi-Fi
-
-#### Long-range LTE Hotspot
-
-#### Network Architecture
-
+When you design and build your own house, it becomes a reflection of who you
+are. It's a thorough, fundamental expression of you. So I've realized
+throughout 
