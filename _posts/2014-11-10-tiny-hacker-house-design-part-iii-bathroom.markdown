@@ -108,7 +108,7 @@ doing laundry for up to two weeks.
 
 I never considered myself to be a packrat, but now that I'm considering
 *actually* moving into a tiny house, declaring a spot for *every* little thing
-I own, it really dawns on me how little importance I place on acquiring new
+I own, it really dawns on me how little consideration I give to acquiring new
 material comforts. 
 
 {% include all_design_posts.markdown %}
