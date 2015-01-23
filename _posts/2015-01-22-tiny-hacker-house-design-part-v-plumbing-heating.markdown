@@ -16,6 +16,8 @@ professional. I'm only offering here the resources I've found helpful in the
 hopes it'll be helpful for other DIY'ers. I certainly wish I had more examples
 available to study as I dove into this adventure.)
 
+<!-- break -->
+
 Since the tiny hacker house will be heated via a closed-loop in-floor radiant
 heat system, the plumbing is a bit more complicated than your typical tiny
 house. One heater will need to provide hot water for
