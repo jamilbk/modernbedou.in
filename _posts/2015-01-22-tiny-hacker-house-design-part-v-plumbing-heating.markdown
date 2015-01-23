@@ -251,4 +251,4 @@ please offer your critique in the comments below!
 All affiliate proceeds go toward supporting this blog and more importantly,
 helping me finish the tiny hacker house!
 
-
+{% include all_design_posts.markdown %}

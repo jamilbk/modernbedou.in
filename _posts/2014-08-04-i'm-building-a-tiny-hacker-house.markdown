@@ -52,3 +52,5 @@ beach, in the forest, or on a snow-covered mountain?
 
 So I'm building a tiny hacker house. The next post will detail the structural
 design and living systems.
+
+{% include all_design_posts.markdown %}
