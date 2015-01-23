@@ -19,6 +19,8 @@ grid-tied, I had to depend on my electrical system to provide the comforts for
 everyday life. If I wanted to rely on my home to support a decent living, it
 needed to be fault-tolerant and straightforward to manage.
 
+<!-- break -->
+
 After much research, I've chosen to go with a solar system and
 propane-converted Honda generator for backup. The panels will lie flat on my
 slanted roof and I'll park the house facing south whenever possible to maximum

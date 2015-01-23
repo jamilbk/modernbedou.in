@@ -6,12 +6,12 @@ date: 2014-08-04
 tags: tiny hacker house philosophy
 ---
 
-<p class="lead">
 I'm building a tiny hacker house on a trailer. It will be about 150 sq. ft. total, and that
 includes the 50 sq. ft. or so required for the queen-size loft. It will have a
 tiny kitchen, tiny bathroom, tiny living area, but a regular sized bathtub.
 The bathtub is important because it doubles as a laundry washer.
-</p>
+
+<!-- break -->
 
 <center>
 <img src="/img/tiny-hacker-house-rough-model.png"

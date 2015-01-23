@@ -11,6 +11,8 @@ I have a love/hate relationship with the Rails asset pipeline. On one hand, it s
 
 The basic premise is that you use your Amazon S3+Cloudfront-hosted compiled assets for production, but fall back to dynamic compilation in your development environment. Let me walk you through it.
 
+<!-- break -->
+
 ### Step 1: Create an S3 bucket and Cloudfront distribution
 
 _I'll assume you know how to do this already._

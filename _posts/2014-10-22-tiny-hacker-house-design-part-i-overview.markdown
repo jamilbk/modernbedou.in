@@ -13,6 +13,8 @@ very early stage in its conception. Well, after a couple more months of
 research and a dash of Burningman inspiration, I've completed what I consider
 to be the beta version of the design.
 
+<!-- break -->
+
 <center> <img src="/img/overview-right.png" alt="Overview Right"> <div
 class="caption"> <i> Enough hacker space to squeeze in 3 or 4 curious nomads.
 </i> </div> </center>

@@ -12,6 +12,8 @@ takes advantage of a bit higher ceilings to make room for a bedroom loft. It's
 a great way to make use of the 13' 6" allowable road height for trailers
 without sacrificing valuable floor space for a permanent bed.
 
+<!-- break -->
+
 <center>
   <img src="/img/loft-head-height.png" alt="Loft Head Height">
   <div class="caption">

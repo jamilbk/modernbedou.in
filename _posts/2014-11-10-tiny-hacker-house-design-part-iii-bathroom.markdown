@@ -16,6 +16,8 @@ future living arrangements where I may be sharing the house. Because of this,
 the bathroom will occupy nearly 1/3 of the lower level space -- approximately
 29 sq. ft. of the 103 sq. ft. available.
 
+<!-- break -->
+
 <center>
   <img src="/img/overview-bathroom.png" alt="Bathroom">
   <div class="caption">

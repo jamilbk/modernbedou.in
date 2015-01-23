@@ -2,8 +2,17 @@ body {
   font-family: "Old Standard TT", serif;
 }
 
-.post-content p {
+.post-content,.post-preview p {
   text-align: justify;
+}
+
+li.post-preview p {
+  margin: 10px 0;
+}
+
+.right-aligned {
+  width: 100%;
+  text-align: right;
 }
 
 strong {
@@ -17,6 +26,15 @@ strong {
   div.post {
     padding-left: 65px;
   }
+}
+
+ul.posts li {
+  border-top: 1px solid #eee;
+  padding-top: 0.5em;
+}
+
+ul.posts li:first-child {
+  border-top: none;
 }
 
 div.affiliate img {
