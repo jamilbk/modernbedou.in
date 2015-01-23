@@ -6,6 +6,10 @@ body {
   text-align: justify;
 }
 
+strong {
+  font-weight: bold;
+}
+
 @media screen and (max-width: 9999px) {
   article.post-content {
     padding-right: 65px;
@@ -13,6 +17,11 @@ body {
   div.post {
     padding-left: 65px;
   }
+}
+
+div.affiliate img {
+  max-width: 1px;
+  max-height: 1px;
 }
 
 .post-content img {
