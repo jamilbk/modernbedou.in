@@ -221,10 +221,10 @@ simple "truth table":
 |No|Yes|On|Bypass|
 
 So if I'm showering and it's cold outside, the pump is on and the thermostat
-switches the zone valve to the floor loop. If I'm showering in the summer,
-the pump is on but the zone valve is set to bypass the floor loop so as not to heat up the
-house. The water heater fires up automatically when it senses flow above 0.5
-GPM, so the pump triggers the water heater in this setup.
+switches the zone valve to the floor loop. If I'm showering in the summer, the
+pump is on but the zone valve is set to bypass the floor loop so as not to heat
+up the house. The water heater fires up automatically when it senses flow above
+0.5 GPM, so the pump triggers the water heater in this setup.
 
 Add in a couple relays to provide the switching and I should be good to go.
 
@@ -243,12 +243,14 @@ I now humbly present to you, the schematic:
 If any professional plumbers are reading this and feeling generous,
 please offer your critique in the comments below!
 
-<div class="affiliate">
-<a target="_blank" href="http://www.amazon.com/gp/registry/wishlist/3UO2734WKC9ZX/?ie=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=modebedo-20&linkId=MEA4QQYH5C4GCF5I">Here is the parts list available on Amazon for your purchasing convenience.</a>
-<img src="https://ir-na.amazon-adsystem.com/e/ir?t=modebedo-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
+_Update:_
 
-All affiliate proceeds go toward supporting this blog and more importantly,
-helping me finish the tiny hacker house!
+The [reddit discussion](http://www.reddit.com/r/TinyHouses/comments/2tdin6/finally_finished_my_tiny_house_radiant_floor/)
+concerning this design has prompted me to reconsider going with a dual zone heater, known as a "combi"
+boiler. The problem is, they're very pricey -- this 
+<a href="http://www.amazon.com/gp/product/B0082LSCKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0082LSCKO&linkCode=as2&tag=modebedo-20&linkId=265ZGRACS6NKR7PD">Rinnai E110CP</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=modebedo-20&l=as2&o=1&a=B0082LSCKO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+is about 2x the cost of the setup shown here for a similar BTU rating. It would
+be nice to save a bit of space and plumbing complexity, but if the pump, heat
+exchanger, or zone valve fail I'm stuck with OEM replacements.
 
 {% include all_design_posts.markdown %}

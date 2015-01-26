@@ -37,7 +37,8 @@ ul.posts li:first-child {
   border-top: none;
 }
 
-div.affiliate img {
+/* Fix Amazon affiliate links */
+.post-content img[src*="amazon-adsystem.com"] {
   max-width: 1px;
   max-height: 1px;
 }
