@@ -216,9 +216,14 @@ ul.prev-next-links {
   letter-spacing: -1px;
 }
 
+.post-content h5 {
+  font-size: 18px;
+  letter-spacing: -1px;
+}
+
 .post-content img {
   margin: 20px;
-  width: 600px;
+  max-width: 600px;
   padding: 0;
 }
 
