@@ -2,7 +2,7 @@
 layout: post
 title: "Tiny Hacker House Design Part VI: Wiring"
 comments: true
-date: 2014-10-08
+date: 2015-02-13
 tags: tiny hacker house design power electrical wiring
 ---
 
