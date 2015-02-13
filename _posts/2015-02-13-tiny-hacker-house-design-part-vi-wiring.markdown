@@ -148,3 +148,4 @@ panel.
 
 Good luck and email me or comment with any questions!
 
+{% include all_design_posts.markdown %}
