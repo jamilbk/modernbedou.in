@@ -64,11 +64,11 @@ devices are essentially an inverter with an AC input to automatically charge
 your batteries when you connect to an AC source. The switching happens on the
 fly -- when you disconnect (or the generator runs out of gas), the inverter
 will automatically and instantly switch from charging mode to inverting mode
-with no loss of power in between. Some of the beefier inverter/chargers can
-even pass split-phase 240V AC input through to power your devices. So if your
-tinyhouse uses a 50A shore power inlet, you'll be able to use both 120V hot
-legs of the supply instead of just one, basically doubling your available
-power. More on that later.
+with no loss of power to your house in between. Some of the beefier
+inverter/chargers can even pass split-phase 240V AC input through to power your
+devices. So if your tinyhouse uses a 50A shore power inlet, you'll be able to
+use both 120V hot legs of the supply instead of just one, basically doubling
+your available power. More on that later.
 
 According to everything I've read so far, the [Magnum
 Energy](http://magnumenergy.com) ones are some of the best. They have [a 48V
@@ -117,12 +117,12 @@ potential between them sums to 240V. Pretty neat huh?
 The corresponding breaker (the two handles on the left) is a double-throw
 breaker. That simply means it is actually two 50A breakers with a mechanism in
 place such that if one breaker trips, it forces the other 50A one to trip as
-well. So with a 50A outlet we actually get 50A + 50A = _100A_ at 120V, or
-12,000W power. That's over **three** times what the 30A outlet can provide and
-**five** times what a standard 20A outlet can provide.
+well. So with a standard four-wire 50A outlet we actually get 50A + 50A =
+_100A_ at 120V, or 12,000W power. That's over **three** times what the 30A
+outlet can provide and **five** times what a standard 20A outlet can provide.
 
 So what does this mean for a tinyhouse? If you think you'll ever need more
-power than what the three-wire 30A outlet can provide (namely 3600W), you need
+power than what the three-wire 30A outlet can provide (namely 3,600W), you need
 to make sure to use a 50A inlet and wire your house accordingly. That means
 picking an inverter that can pass through split-phase AC input, and having at
 least two separate 50A electrical circuits for your tiny house: one for each hot
