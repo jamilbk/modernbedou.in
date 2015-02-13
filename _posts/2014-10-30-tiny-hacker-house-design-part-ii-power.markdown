@@ -162,8 +162,9 @@ the generator at full load for up to 40 hours (calculated from
 Plenty of power to live comfortably without worry!
 
 That sums up the electrical system -- hope you made it all the way
-through. If you have any questions please leave a comment below or [shoot me an
-email](mailto:contact@modernbedou.in). In the next post we'll dip into some
+through. If you have any questions please leave a comment below or <a
+href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#109;&#111;&#100;&#101;&#114;&#110;&#098;&#101;&#100;&#111;&#117;&#046;&#105;&#110;">shoot
+me an email.</a> In the next post we'll dip into some
 smelly subjects as we take a splash in the bathroom. :-)
 
 {% include all_design_posts.markdown %}
