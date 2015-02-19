@@ -11,7 +11,7 @@ _Disclaimer: I'm not a certified electrician, just a stubborn DIY'er._
 **tl;dr:** Scroll to the bottom for the [schematic](#schematic).
 
 Electricity is one of the most important aspects of building a house. If you
-get it wrong, your house can burn down. Or you'll constantly be throwing
+get it wrong, your house can burn down. Or you'll constantly be flipping
 breakers and frying devices. Definitely hire a professional electrician if you
 just want a system that works and is safe. But if you're a stubborn
 DIY'er-at-all-costs like me, read on.
@@ -87,7 +87,7 @@ an electrical panel like this:
   <div class="caption">
     <i>
       From left to right: 50A outlet, 30A outlet, and two 20A outlets all with
-corresponding breakers. Notice the double-throw breaker for the 50A outlet!
+corresponding breakers. Notice the double-pole breaker for the 50A outlet!
    </i>
   </div>
 </center>
@@ -114,7 +114,7 @@ provide 240V AC to certain high-power devices. The additional hot is 120V as
 well, but shifted 180&deg; out of phase with the other one, so the average
 potential between them sums to 240V. Pretty neat huh?
 
-The corresponding breaker (the two handles on the left) is a double-throw
+The corresponding breaker (the two handles on the left) is a double-pole
 breaker. That simply means it is actually two 50A breakers with a mechanism in
 place such that if one breaker trips, it forces the other 50A one to trip as
 well. So with a standard four-wire 50A outlet we actually get 50A + 50A =
@@ -137,14 +137,23 @@ Finally, here is what all that adds up to:
   <img src="/img/wiring-schematic.png" alt="Tiny Hacker House Wiring Schematic">
   <div class="caption">
     <i>
-      Nothing beats good ol' paper and pencil!
+      NOTE: The service inlet plug should actually be male, not female.      
    </i>
   </div>
 </center>
 
 In my design, I actually have three panels in order to electrically isolate the
 inverter without having to rewire anything. Hence the "main panel" and transfer
-panel.
+panel. You could just as easily omit these and feed directly into the inverter
+and then into your subpanel.
+
+The subpanel consists of four 120V circuits: two 20V runs and two 15V runs. I'd
+have to upgrade the subpanel to make room for a double-pole breaker if I wanted
+to feasibly run a 240V appliance on this system.
+
+Also note the current ratings written on the panels in the diagram are a bit
+misleading. Those are the total current ratings for each leg of 120V, so divide
+by two in the context of split-phase 240V.
 
 Good luck and email me or comment with any questions!
 
