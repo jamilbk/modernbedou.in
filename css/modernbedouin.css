@@ -103,6 +103,18 @@ ul.posts li:first-child {
   }
 }
 
+a[data-lightbox] img {
+  width: 150px;
+  margin: 0;
+  padding: 0;
+}
+
+ul.thumbnails li {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
 .caption {
   font-family: Helvetica, sans-serif;
   font-size: 12px;
