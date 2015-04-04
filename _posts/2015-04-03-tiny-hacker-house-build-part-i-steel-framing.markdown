@@ -7,7 +7,7 @@ tags: tiny hacker house build steel framing
 ---
 
 This is the first build post. I actually started building in late November, but
-wanting to make some sustained progress before sharing what I've learned.
+wanted to make some sustained progress before sharing what I've learned.
 I knew I wanted to use metal stud framing, but how much more difficult could
 this be than traditional stick framing?
 
@@ -178,7 +178,7 @@ a week and 7 cobalt drill bits.
 
 After all that hard work, was it worth using metal studs? Absolutely. Just
 maybe not 12-gauge ones. 18-gauge would probably be more suitable and can still
-be welded.
+be welded. On to electrical and plumbing!
 
 Here are all the pics:
 
