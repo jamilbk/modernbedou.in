@@ -47,7 +47,7 @@ I thought I was really clever for coming up with this "foundation":
 </center>
 
 Then I found out about the [Prescriptive Method for Residential Cold-Formed
-Steel Framing]({{site.baseurl}}/files/steel framing guide.pdf). Apparently, if
+Steel Framing]({{site.baseurl}}/files/steel_framing_guide.pdf). Apparently, if
 you're framing anything with steel, this is the reference to rule them all.
 After reading that, I realized I had to trash the subfloor I already built and
 order some _real_ metal studs. This meant I needed the precise lengths of all the
