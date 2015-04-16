@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part VI: Wiring"
 comments: true
 date: 2015-02-13
+categories: tinyhouse
 tags: tiny hacker house design power electrical wiring
 ---
 
@@ -156,5 +157,3 @@ misleading. Those are the total current ratings for each leg of 120V, so divide
 by two in the context of split-phase 240V.
 
 Good luck and email me or comment with any questions!
-
-{% include all_design_posts.markdown %}

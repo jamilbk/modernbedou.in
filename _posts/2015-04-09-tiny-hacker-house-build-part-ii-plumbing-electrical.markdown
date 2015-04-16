@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Build Part II: Plumbing & Electricity"
 comments: true
 date: 2015-04-09
+categories: tinyhouse
 tags: tiny hacker house build plumbing electricity
 ---
 
@@ -123,5 +124,3 @@ Here are all the pics for your viewing pleasure:
 <li><a href="/img/build-plumbing/shower valve detail.jpg" data-lightbox="build-plumbing"><img src="/img/build-plumbing/shower valve detail.jpg"></a></li>
 <li><a href="/img/build-plumbing/kitchen switch.jpg" data-lightbox="build-plumbing"><img src="/img/build-plumbing/kitchen switch.jpg"></a></li>
 </ul>
-
-{% include all_design_posts.markdown %}

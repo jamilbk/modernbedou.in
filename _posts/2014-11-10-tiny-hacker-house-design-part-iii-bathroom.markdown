@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part III: Bathroom"
 comments: true
 date: 2014-11-10
+categories: tinyhouse
 tags: tiny hacker house design bathroom
 ---
 
@@ -112,5 +113,3 @@ I never considered myself to be a packrat, but now that I'm considering
 *actually* moving into a tiny house, declaring a spot for *every* little thing
 I own, it really dawns on me how little consideration I give to acquiring new
 material comforts. 
-
-{% include all_design_posts.markdown %}

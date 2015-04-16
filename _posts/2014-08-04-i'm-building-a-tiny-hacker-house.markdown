@@ -3,6 +3,7 @@ layout: post
 title: "I'm Building a Tiny Hacker House"
 comments: true
 date: 2014-08-04
+categories: tinyhouse
 tags: tiny hacker house philosophy
 ---
 
@@ -52,5 +53,3 @@ beach, in the forest, or on a snow-covered mountain?
 
 So I'm building a tiny hacker house. The next post will detail the structural
 design and living systems.
-
-{% include all_design_posts.markdown %}

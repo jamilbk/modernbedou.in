@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part II: Power"
 comments: true
 date: 2014-10-30
+categories: tinyhouse
 tags: tiny hacker house design power electrical
 ---
 
@@ -166,5 +167,3 @@ through. If you have any questions please leave a comment below or <a
 href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#109;&#111;&#100;&#101;&#114;&#110;&#098;&#101;&#100;&#111;&#117;&#046;&#105;&#110;">shoot
 me an email.</a> In the next post we'll dip into some
 smelly subjects as we take a splash in the bathroom. :-)
-
-{% include all_design_posts.markdown %}

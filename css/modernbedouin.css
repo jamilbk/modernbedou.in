@@ -10,6 +10,14 @@ li.post-preview p {
   margin: 10px 0;
 }
 
+.post-header .meta ul {
+  display: inline
+  font-size: 15px;
+  color: #818181;
+  margin-top: 5px;
+  list-style: none;
+}
+
 .right-aligned {
   width: 100%;
   text-align: right;

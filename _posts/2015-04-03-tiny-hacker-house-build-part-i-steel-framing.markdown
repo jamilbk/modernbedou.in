@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Build Part I: Steel Framing"
 comments: true
 date: 2015-04-03
+categories: tinyhouse
 tags: tiny hacker house build steel framing
 ---
 
@@ -204,5 +205,3 @@ Here are all the pics:
 <li><a href="/img/framing/wall skew.jpg" data-lightbox="framing"><img src="/img/framing/wall skew.jpg" ></a></li>
 <li><a href="/img/framing/wall warp.jpg" data-lightbox="framing"><img src="/img/framing/wall warp.jpg" ></a></li>
 </ul>
-
-{% include all_design_posts.markdown %}

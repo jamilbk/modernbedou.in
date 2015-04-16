@@ -5,11 +5,16 @@ layout: default
 
   <header class="post-header">
     <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="meta">
+      {{ page.date | date: "%b %-d, %Y" }} in {% for category in page.categories %} <span><a href="#posts-like-this">{{ category }}</a></span>{% endfor %}
+      {% if page.author %} • {{ page.author }}{% endif %}
+      {% if page.meta %} • {{ page.meta }}{% endif %}
+    </p>
   </header>
 
   <article class="post-content">
   {{ content }}
+  {% include posts-like-this.markdown %}
   </article>
 
 </div>

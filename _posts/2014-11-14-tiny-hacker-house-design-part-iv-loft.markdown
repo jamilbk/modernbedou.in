@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part IV: Loft"
 comments: true
 date: 2014-11-14
+categories: tinyhouse
 tags: tiny hacker house design bedroom loft
 ---
 
@@ -61,5 +62,3 @@ efficient way to climb into the loft. Right now the plan is to reinforce the
 shelving near the TV to double as a ladder, or build a thin metal ladder that
 attaches to the loft edge and tucks away into the pocket door nook when not in
 use. We'll see.
-
-{% include all_design_posts.markdown %}

@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part V: Supply Plumbing / Heating"
 comments: true
 date: 2015-01-22
+categories: tinyhouse
 tags: tiny hacker house design supply plumbing radiant floor heating
 ---
 
@@ -252,5 +253,3 @@ boiler. The problem is, they're very pricey -- this
 is about 2x the cost of the setup shown here for a similar BTU rating. It would
 be nice to save a bit of space and plumbing complexity, but if the pump, heat
 exchanger, or zone valve fail I'm stuck with OEM replacements.
-
-{% include all_design_posts.markdown %}

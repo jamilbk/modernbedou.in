@@ -3,6 +3,7 @@ layout: post
 title: "Tiny Hacker House Design Part I: Overview"
 comments: true
 date: 2014-10-22
+categories: tinyhouse
 tags: tiny hacker house design overview
 ---
 
@@ -179,5 +180,3 @@ laundry in the shower pan.
 
 That just about summarizes the design of the tiny hacker house. The next post
 will detail the electrical system!
-
-{% include all_design_posts.markdown %}
